@@ -3,7 +3,7 @@ import java.util.*;
 public class Course {
 	private String name; //name of course
 	private int extent; //antal hp
-	private Arraylist<String> questionlist;
+	private ArrayList<String> questionlist;
 	private ArrayList<String> answerlist;
 	private Book coursebook;
 
@@ -23,7 +23,7 @@ public class Course {
 		return this.extent;
 	}
 
-	public Arraylist<String> getQuestions() {
+	public ArrayList<String> getQuestions() {
 		return this.questionlist;
 	}
 
