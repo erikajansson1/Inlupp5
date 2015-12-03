@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Avatar {
 	public ArrayList<Course> currentcourses;
 	public ArrayList<Course> donecourses;
@@ -61,7 +59,7 @@ public class Avatar {
 		this.donecourses = donecourses.add(e);
 	}
 
-	public boolean isDone() {
+	public bool isDone() {
 		if (this.hp >= 180) {
 			return True;
 		}
