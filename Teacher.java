@@ -9,30 +9,34 @@ public class Teacher extends Creature {
 
 	public void askQuestion() {
 		ArrayList<String> list = Course.getQuestions();
-		for (int i = 0; i < 3, i++) {
-			System.out.println(list[i]) + "\n";
+		for (int i = 0; i < 3; i++) {
+			System.out.println(list[i] + "\n");
 		}
 	}
 
 	public void generateQuestion(boolean finishedCourse) {
 		Random random = new Random();
 		int u = random.nextInt(100);
-		if finishedCourse {
-			if u <= 75 {
+		if (finishedCourse) {
+			if (u <= 75) {
 				askQuestion();
 			}
 		}
 		else {
-			if u <= 50 {
+			if (u <= 50) {
 				askQuestion();
 			}
 		}
 	}
 
 	public void determineAnswer(String answer) {
-		if list.contains(answer) {
+		if (list.contains(answer)) {
 			return True;
 		}
 		return False;	
+	}
+
+	public String toString(){
+		return "I am a Teacher";
 	}
 }
