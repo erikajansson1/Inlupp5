@@ -35,4 +35,8 @@ public class Teacher extends Creature {
 		}
 		return False;	
 	}
+
+    public string toString() {
+	return "I am a teacher";
+    }
 }

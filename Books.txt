@@ -1,0 +1,17 @@
+Learn C the hard way;Kalle Persson;2007;2
+Transition systems;Tova Fernandes;2001;3
+Calculus;Robert A. Adams;2004;2
+Startbok matte;Peter Petricksson;2002;2
+MK Computer Organization;Trakel Trakelsson;2000;2
+CalculusFat;Roberta A. Adams;2009;3
+IntroIT;Pelle Knutsson;1999;3
+Algebra bas;Mikael Froden;2001;3
+How to learn Haskell;Miran Lipovaca;2005;2
+T-rex grundbok;Dino Saurius;1997;1
+Framtidens dåtid;My Frulander;2015;3
+Konsten att studera;Viktor Petter;2010;1
+Handbok i piratkonster;Jack Sparrow;2
+Vår Flora;Fru Rosenknopp;2006;2
+Människans Inlärning;Karin Gunnarsson;2006;3
+Ekonomins historia;Frans Ekman;1999;2
+How to eat candy as fast as possible;Tasty Bean;2014;1

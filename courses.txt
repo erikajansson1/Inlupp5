@@ -1,0 +1,18 @@
+Imperativ och objektorienterad programmeringsmetodik; Learn C the hard way;20
+Automater och logik i modellering av IT-system;Transition systems;5
+Algebra 1;Calculus;5
+Baskurs i mattematik;Startbok matte;5
+Datorarkitektur;MK Computer Organization;10
+Envariabelanalys;CalculusFat;10
+Introduktion till informationsteknologi;IntroIT;10
+Linjär algebra och geometri;Algebra bas;5
+Programkonstruktion och datastrukturer;How to learn Haskell;20
+Dinosauriernas värld;T-rex grundbok;10
+Runskrift och runstenar;Framtidens dåtid;20
+Studieteknik;Konsten att studera;10
+Piraternas Erövringar;Handbok i piratkonster;5
+Blommornas utveckling;Vår Flora;5
+Pedagogik;Människans Inlärning;10
+Grundkurs ekonomi;Ekonomins historia;20
+Godis ätande;How to eat candy as fast as possible;10
+

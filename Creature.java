@@ -19,6 +19,10 @@ public class Creature {
 		return this.course;
 	}
 
+    public string toString(){
+	return "I am A Creature";
+    }
+
 		private class Student extends Creature {
 			private Book coursebook;
 			private Course finishedCourse;

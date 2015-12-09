@@ -1,0 +1,36 @@
+Room 1257; Hallway 1; X; X; X; False; X; X; X
+Hallway 1; X; X; Room 1257; Hallway 2; X; X; False; True
+Hallway 2; Room 1246; Hallway 1; Room 1258; Hallway 3; True; True; False; True
+Room 1246; X; X; Hallway 2; X; X; X; True; X
+Room 1258; Hallway 2; X; X; Room 1260; False; X; X; False
+Hallway 3; Room 1245; Hallway 2; X; Hallway 4; False; True; X; True
+Room 1245; X; X; Hallway 3; X; X; X; False; X
+Hallway 4; X; Hallway 3; Room 1260; Hallway 5; X; False; False; True 
+Room 1260; Hallway 4; Room 1258; X; X; True; False; X; X
+Hallway 5; Room 1224; Hallway 4; Room 1222; Hallway 6; True; False; False; True
+Room 1224; X; X; Hallway 5; X; X; X; True; X
+Room 1222; Hallway 5; X; X; X; False; X; X; X
+Hallway 6; Storage; Hallway 5; Room 1221; Hallway 7; False; True; False; True
+Storage; X; X; Hallway 6; X; X; X; False; X
+Room 1221; Hallway 6; X; X; X; False; X; X; X
+Hallway 7; X; Hallway 6; Room 1220; Hallway 8; X; True; False; False
+Room 1220; Hallway 7; X; X; X; False; X; X; X
+Hallway 8; X; Hallway 7; Room 1219; Hallway 9; X; False; True; True
+Room 1219; Hallway 8; X; X; X; True; X; X; X
+Hallway 9; Toilet; Hallway 8; Room 1218; Hallway 10; False; True; False; True
+Toilet; X; X; Hallway 9; X; X; X; False; X
+Room 1218; Hallway 9; X; X; Room 1217; True; X; X; True
+Hallway 10; X; Hallway 9; Room 1217; Hallway 11; X; True; True; True
+Room 1217; Hallway 10; Room 1218; X; X; True; True; X; X
+Hallway 11; Room 1232; Hallway 10; Room 1216; Hallway 12; False; True; True; True
+Room 1232; X; X; Hallway 11; X; X; X; False; X
+Room 1216; Hallway 11; X; X; X; True; X; X; X
+Hallway 12; Room 1213; Hallway 11; X; Hallway 13; True; True; X; False
+Room 1213; X; X; Hallway 12; X
+Hallway 13; Room 1212; Hallway 12; X; Hallway 14; True; False; X; True
+Room 1212; X; X; Hallway 13; X; X; X; True; X
+Hallway 14; Hallway 15; Hallway 12; Skrubben; X; False; True; False; X
+Skrubben; Hallway 14; X; X; X; False; X; X; X
+Hallway 15; Room 1211; X; Hallway 14; Room 1210; False; X; False; True
+Room 1211; X; X; Hallway 15; X; X; X; False; X
+Room 1210; X; Hallway 15; X; X; X; True; X; X
