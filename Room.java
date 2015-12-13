@@ -36,9 +36,16 @@ public class Room {
     	directions.put(3, "West");
 	this.name = name;
 	this.keysInRoom = keys;
-	
     }
 
+    public Room (String name) {
+	this.name = name;
+    }
+
+    public Room (String[] InParse) {
+	name = InParse[0];
+	directions = InParse[1],
+    }
 
     //METODER;
     /**
@@ -48,7 +55,6 @@ public class Room {
     public String getName(){
     	return this.name;
     }
-
     
     /**
      * Returns a list with all books in the room
@@ -132,8 +138,6 @@ public class Room {
 	    }
 	}
     }
-
-
 
     
 }
